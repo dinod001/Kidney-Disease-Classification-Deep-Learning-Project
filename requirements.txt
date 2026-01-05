@@ -1,5 +1,5 @@
 # Core ML / DL
-tensorflow==2.12.0
+#tensorflow==2.12.0
 numpy
 pandas
 scipy
@@ -32,4 +32,4 @@ Flask
 Flask-Cors
 
 # Install local package
--e .
+#-e .
